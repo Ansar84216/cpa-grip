@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get Your $100 Shein Gift Card Now!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 500px;
+            margin: 50px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #d63384;
+        }
+        p {
+            font-size: 18px;
+            color: #333;
+        }
+        .cta-button {
+            display: inline-block;
+            background: #ff4081;
+            color: white;
+            padding: 15px 20px;
+            font-size: 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .cta-button:hover {
+            background: #d63384;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Claim Your $100 Shein Gift Card!</h1>
+        <img src="https://via.placeholder.com/400x200" alt="Shein Gift Card">
+        <p>Get a chance to win a $100 Shein Gift Card instantly. Click the button below and complete the simple steps!</p>
+        <a href="https://singingfiles.com/show.php?l=0&u=2356084&id=61174" class="cta-button">Claim Now</a>
+    </div>
+</body>
+</html>
